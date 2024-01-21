@@ -26,11 +26,7 @@ cd To_do_expo_app
 3.Run the application:
 
 npx expo start
-
-After this following type of QR will be generated
-
-
-![WhatsApp Image 2024-01-14 at 6 38 17 PM](https://github.com/shashank2532/To_do_expo_app/assets/140298043/7c679348-5552-47c1-8df8-fe9a72f32e9f)
+ 
 
 
 
