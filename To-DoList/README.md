@@ -16,7 +16,7 @@ Installation:
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/react-native-todo-app.git
+ 
 
 2.Locate the folder:
 
@@ -34,9 +34,7 @@ npx expo start
 
 5.To run on mobile, after downloading the expo go app scan the QR code generated in the terminal with app.
 
-
-
-https://github.com/shashank2532/To_do_expo_app/assets/140298043/f1e1035b-b9b3-4765-b26a-c6f67125ecd4
+ 
 
 
 
